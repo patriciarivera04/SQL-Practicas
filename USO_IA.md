@@ -9,3 +9,4 @@ Calidad 4/5: comprensión progresiva y razonamiento adecuado.
 Proactividad 5/5: iniciativa, experimentación, preguntas y contraste de resultados.
 Independencia 4/5: razonamiento activo y consultas propias, aunque necesita reforzar la autonomía sintáctica.
 VEREDICTO: Principalmente apoyo al aprendizaje, con intervención directa en algunos ejercicios y la documentación. Debe mejorar la agilidad técnica y la resolución autónoma de errores.
+ENLACE_CHAT: https://chatgpt.com/share/6b0774d2-e018-83eb-a8ac-65442b8025a9

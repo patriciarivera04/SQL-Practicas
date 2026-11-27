@@ -127,6 +127,7 @@ En determinados ejercicios, la IA también ha proporcionado soluciones completas
 ### Documentación general
 
 - [Informe general de uso de IA](USO_IA.md)
+- [Conversación compartida en ChatGPT](https://chatgpt.com/share/6b0774d2-e018-83eb-a8ac-65442b8025a9)
 
 ### Documentación específica por práctica
 
